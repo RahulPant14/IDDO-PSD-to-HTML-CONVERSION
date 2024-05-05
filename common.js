@@ -48,8 +48,12 @@ $(function(){
     });
 
     $(".wrap-7 .seemore").click(function(){
-        $(".wrap-7 .row:nth-child(2) .col-4").fadeIn()
+        $(".wrap-7 .row:nth-child(2) .col-4").fadeIn();
     });
+
+    // $(".wrap-7 .seemore").on("click", function(){
+    //     $(".wrap-7 .row:nth-child(2) .col-4").toggle();
+    // })
 
     $(".signup").click(function(){
         $("body").append(`<div class="overlay"></div>`);
