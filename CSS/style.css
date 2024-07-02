@@ -125,6 +125,7 @@ h2{ font-size: 72px; line-height: 60px; border-bottom: 10px solid; margin-bottom
 .wrap-6 .bx-wrapper .bx-pager.bx-default-pager a{ border: 2px solid #fff;}
 .wrap-6 .bx-wrapper .bx-pager.bx-default-pager a.active,.wrap-6 .bx-wrapper .bx-pager.bx-default-pager a:focus,.wrap-6 .bx-wrapper .bx-pager.bx-default-pager a:hover{ background: #fff;}
 .wrap-6 .bx-wrapper img{margin: auto;}
+.wrap-6 { overflow-x: hidden;}
 
 
 .wrap-7{ color: #363636; padding: 100px 0;}
