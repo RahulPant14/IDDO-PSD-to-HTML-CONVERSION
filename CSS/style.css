@@ -175,7 +175,7 @@ address{ line-height: 30px; color: #898989 }
 address a{ color: inherit;}
 .social2{ margin: 20px 0; }
 .social2 li{ margin-right: 10px; }
-.social2 li a{ display: block; color: var(--red);}
+.social2 li a{ display: block; padding: 5px; color: var(--red);}
 .wrap-12 label{ border: 2px solid; padding: 16px; margin-bottom: 2rem; }
 .wrap-12 input{ background: none; border: none;}
 .wrap-12 textarea{ background: none; border: none; resize: none; height: 42px; vertical-align: top; }
